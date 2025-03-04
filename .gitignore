@@ -1,14 +1,13 @@
 .venv
-___RESULT TRAIN 1
+___RESULT TRAIN 1/data/**
+___RESULT TRAIN 2/data
 __DATASET FOR TRAIN 1
 __DATASET FOR TRAIN 2
 data
 data_images_for_train_1
 data_images_for_train_2
 data_reduction
-runs
 
 data.yaml
-*.pt
 *.mp4
 *.avi
