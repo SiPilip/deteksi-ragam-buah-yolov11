@@ -1,0 +1,15 @@
+path: C:\Users\USER\Desktop\deteksi-ragam-buah-yolov11\data
+train: C:\Users\USER\Desktop\deteksi-ragam-buah-yolov11\data\train
+val: C:\Users\USER\Desktop\deteksi-ragam-buah-yolov11\data\validation
+nc: 10
+names:
+  - apel
+  - belimbing
+  - ceri
+  - kiwi
+  - kurma
+  - lemon
+  - nanas
+  - pisang
+  - semangka
+  - tomat
